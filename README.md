@@ -1,0 +1,1 @@
+# is-eurico-npm-package
